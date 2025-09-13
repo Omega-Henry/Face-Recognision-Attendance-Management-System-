@@ -15,12 +15,7 @@ Simple, school-oriented attendance system. Students **enroll** with **Class ID +
 
 ## 🧰 Tech Stack
 - **Python 3.x**, **OpenCV**
-- One of:
-  - **face_recognition** (dlib) _or_ **Mediapipe** (depending on your code)
 - **SQLite3** for the database
-
-> If your code uses different libs, keep this section but adjust library names.
-
 ---
 
 ## ⚙️ Installation
