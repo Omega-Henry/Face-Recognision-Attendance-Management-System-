@@ -1,9 +1,3 @@
-"""Register a new student or teacher, storing their face encoding in SQLite.
-
-Can be imported by GUI or run directly from the command line:
-    $ python registration.py
-    #→ falls back to interactive CLI prompts
-"""
 from __future__ import annotations
 
 import pickle
