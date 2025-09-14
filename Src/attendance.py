@@ -1,5 +1,3 @@
-"""Reusable attendance logic + CLI. Import into GUI or run standalone."""
-
 from __future__ import annotations
 
 import pickle
