@@ -1,8 +1,3 @@
-"""Desktop dashboard matching the uploaded design.
-
-Run with:
-    $ python interface.py
-"""
 from __future__ import annotations
 
 import tkinter as tk
